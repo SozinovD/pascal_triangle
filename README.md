@@ -7,7 +7,7 @@ Python script to show Pascal's triangle in console
 
 ## Usage
 
-0. Pull this repo, go to it's dir
+1. Pull this repo, go to it's dir
 ```
 git pull https://github.com/SozinovD/pascal_triangle; cd pascal_triangle
 ```
